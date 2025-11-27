@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: red;
+    margin: 0;
+    padding: 30px;
+}
+div{
+    background-color: white;
+    padding: 20px;
+    margin:  20px auto;
+    text-align: center;
+}
+ul{
+    background-color: black;
+    text-align: center;
+}
+li{
+    display: inline-block;
+    text-align: center;
+    font-size: larger;
+    
+}
+li a{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+h1{
+    margin: 20px;
+}
+p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+}
+#first{
+      width: 1200px;
+      height: 400px;
+}
+figure{
+    display: inline-block;
+    
+    
+    
+}
